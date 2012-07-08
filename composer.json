@@ -1,7 +1,7 @@
 {
     "name" : "ajbdev/requirejs",
     "description" : "RequireJS is a JavaScript file and module loader.",
-    "keywords" : ["require","javascript",'requirejs"],
+    "keywords" : ["require","javascript","requirejs"],
     "homepage" : "http://requirejs.org/",
     "license" : "BSD"
 }
